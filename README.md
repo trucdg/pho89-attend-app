@@ -12,7 +12,7 @@ Inspired by a desire to save our manager time and fueled by a personal passion t
    - When checking in, camera may be enabled to take a snapshot of the current employee to avoid false check-in.
 3. **Employee Profiles**:
    - Create profiles for each employee with their basic information (id, name, and position)
-   - Manager can edit emploee profiles.
+   - Manager can edit employee profiles.
 4. **Report and Analytics**:
    - Generate reports on attendance, late arrivals, and other relevant metrics to help with decision-making and payroll.
    - Automatically email reports to managers on a set schedule.
