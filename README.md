@@ -44,3 +44,7 @@ Inspired by a desire to save our manager time and fueled by a personal passion t
 - Real-time attendance tracking, managers can view who is currently on shift.
 - Basic reporting, allowing managers to view attendance records for a specific timeframe.
 - Minimal error handling: provide feedback to users in case of registration/ login issues.
+
+## Initial UI
+
+[Initial UI](https://github.com/trucdg/pho89-attend-app/blob/main/initial_ui.JPG)
