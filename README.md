@@ -47,4 +47,4 @@ Inspired by a desire to save our manager time and fueled by a personal passion t
 
 ## Initial UI
 
-[Initial UI](https://github.com/trucdg/pho89-attend-app/blob/main/initial_ui.JPG)
+![Initial UI](https://github.com/trucdg/pho89-attend-app/blob/main/initial_ui.JPG)
