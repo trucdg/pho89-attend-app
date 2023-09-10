@@ -20,3 +20,5 @@ Inspired by a desire to save our manager time and fueled by a personal passion t
 5. **Security and Access Control**:
    - Ensure data privacy and security by implementing role-based access control, limit who can view and edit attendance records
   
+## Simplified User Flow:
+![Userflow](https://github.com/trucdg/pho89-attend-app/blob/main/Flowchart%20Template.jpg)
