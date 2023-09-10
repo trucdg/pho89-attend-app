@@ -22,3 +22,25 @@ Inspired by a desire to save our manager time and fueled by a personal passion t
   
 ## Simplified User Flow:
 ![Userflow](https://github.com/trucdg/pho89-attend-app/blob/main/Flowchart%20Template.jpg)
+
+## The MVC architecture:
+1. **Model**:
+   - **User Model**: store information about the users
+      - Role: Manager, Kitchen Staff, Waiter
+      - Name
+      - Passcode
+   - **Attendance Model**:
+      - stores clock-in time and shift information for employees
+2. **View**:
+   - **User Interface**: Design UI for user login, registration, employee profile management, attendance tracking, and reporting.
+   - **Dashboard**: Create a dashboard for managers to view real-time attendance data and access reports.
+3. **Controller**:
+   - **User Controller**: Handle login and profile management. Manage user roles and permissions
+   - **Attendance Controller**: Process clock-in and clock-out actions, and attendance tracking logic. Calculate work hours and update records
+   - **Report Controller**: Generate reports and analytics based on attendance data
+
+## Define MVP (Minimal Viable Product):
+- User creation with basic roles (managers and employees) and minimal permissions.
+- Real-time attendance tracking, managers can view who is currently on shift.
+- Basic reporting, allowing managers to view attendance records for a specific timeframe.
+- Minimal error handling: provide feedback to users in case of registration/ login issues.
