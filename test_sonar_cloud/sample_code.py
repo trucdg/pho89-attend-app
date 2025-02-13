@@ -16,3 +16,8 @@ for activity_time in sorted(activities.keys()):
         break
 else:
     print ('Unknown, AFK or sleeping!')
+
+def my_function():
+    a = 10
+    b = 10
+    print(a is b)

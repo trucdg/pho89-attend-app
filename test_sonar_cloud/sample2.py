@@ -1,4 +1,5 @@
 from time import localtime
+import random
 
 activities = {8: 'Sleeping',
               9: 'Commuting',
@@ -16,3 +17,6 @@ for activity_time in sorted(activities.keys()):
         break
 else:
     print ('Unknown, AFK or sleeping!')
+
+
+NUM_PETS=random.randint(1, 300-20)
