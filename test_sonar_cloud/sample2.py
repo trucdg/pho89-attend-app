@@ -16,7 +16,7 @@ for activity_time in sorted(activities.keys()):
         print (activities[activity_time])
         break
 else:
-    print ('Unknown, AFK or sleeping!')
+    print('Unknown, AFK or sleeping!')
 
 
-NUM_PETS=random.randint(1, 300-20)
+NUM_PETS=random.randint(1, 300)
