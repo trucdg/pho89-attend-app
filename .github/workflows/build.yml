@@ -14,7 +14,3 @@ jobs:
               uses: SonarSource/sonarqube-scan-action@v4
               env:
                 SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
-<<<<<<< HEAD
-              
-=======
->>>>>>> dd04f1c (add sample files)
